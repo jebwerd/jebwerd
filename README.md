@@ -1,6 +1,4 @@
 # Hello, I'm Jebin Thomas
-<img align=”right” alt=”Coding” width=”700” src="https://gifdb.com/gif/spongebob-squarepants-pc-fire-vap1vi52dakvrni9.html">
-
 
 <a href="https://www.linkedin.com/in/jebinthomass/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
