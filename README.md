@@ -1,5 +1,5 @@
 # Hello, I'm Jebin Thomas
-<img align=”right” alt=”Coding” width=”700” src="https://tenor.com/view/chandler-pc-gif-25198681">
+<div class="tenor-gif-embed" data-postid="25198681" data-share-method="host" data-aspect-ratio="1.22605" data-width="100%"><a href="https://tenor.com/view/chandler-pc-gif-25198681">Chandler Pc GIF</a>from <a href="https://tenor.com/search/chandler+pc-gifs">Chandler Pc GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <a href="https://www.linkedin.com/in/jebinthomass/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
