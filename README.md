@@ -1,7 +1,5 @@
 ## Hello I'm Jebin 🦖
-   🎓  Student at The University of Texas at Dallas<br/>
-   💻  Incoming SRE intern @ Charles Schwab for Summer '25<br/>
-   📸  Passionate about Videography<br/>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jebinthomass) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jebin.thomas@outlook.com) 
